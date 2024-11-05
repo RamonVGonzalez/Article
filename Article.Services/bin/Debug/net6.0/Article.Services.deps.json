@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Article.Services/1.0.0": {
+        "dependencies": {
+          "Article.Infrastructure": "1.0.0",
+          "MediatR": "6.0.0"
+        },
+        "runtime": {
+          "Article.Services.dll": {}
+        }
+      },
+      "MediatR/6.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/MediatR.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.0.0"
+          }
+        }
+      },
+      "Article.Domain/1.0.0": {
+        "runtime": {
+          "Article.Domain.dll": {}
+        }
+      },
+      "Article.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Article.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Article.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Article.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MediatR/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R01T5Af1kSH9lBvlxdTeJOr+ugPwfy0FsFq15XsNAIA8GSUYwHW7lfvYGwhBynwJVXWxRwieqxOxCFEV9GO+SQ==",
+      "path": "mediatr/6.0.0",
+      "hashPath": "mediatr.6.0.0.nupkg.sha512"
+    },
+    "Article.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Article.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

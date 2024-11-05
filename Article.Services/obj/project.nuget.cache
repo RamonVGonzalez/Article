@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f3W3uBLs68xK/5WUCbIXo3X+ouHrgLhCl5sQdIZJyU4F5IEpL2DX5bLv+n85wcaYobSNqbu8p1XsgvPEa+ZB5g==",
+  "success": true,
+  "projectFilePath": "/Users/mac/Desktop/Article/Article.Services/Article.Services.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/mediatr/6.0.0/mediatr.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

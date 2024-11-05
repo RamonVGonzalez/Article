@@ -1,0 +1,12 @@
+/Users/mac/Desktop/Article/Article.Domain/bin/Debug/net6.0/Article.Domain.deps.json
+/Users/mac/Desktop/Article/Article.Domain/bin/Debug/net6.0/Article.Domain.dll
+/Users/mac/Desktop/Article/Article.Domain/bin/Debug/net6.0/Article.Domain.pdb
+/Users/mac/Desktop/Article/Article.Domain/obj/Debug/net6.0/Article.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Article/Article.Domain/obj/Debug/net6.0/Article.Domain.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Article/Article.Domain/obj/Debug/net6.0/Article.Domain.AssemblyInfo.cs
+/Users/mac/Desktop/Article/Article.Domain/obj/Debug/net6.0/Article.Domain.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Article/Article.Domain/obj/Debug/net6.0/Article.Domain.dll
+/Users/mac/Desktop/Article/Article.Domain/obj/Debug/net6.0/refint/Article.Domain.dll
+/Users/mac/Desktop/Article/Article.Domain/obj/Debug/net6.0/Article.Domain.pdb
+/Users/mac/Desktop/Article/Article.Domain/obj/Debug/net6.0/ref/Article.Domain.dll
+/Users/mac/Desktop/Article/Article.Domain/obj/Debug/net6.0/Article.Domain.csproj.AssemblyReference.cache

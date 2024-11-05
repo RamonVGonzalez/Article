@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "yUtfpfLuS2Hr5gQTaFhnZLIpJ0eCHi5l3kzQIWdmeAimFiJHoDf/3TnVDJ2Z/HI99GT8PFkGa1c83c2url+zLQ==",
+  "success": true,
+  "projectFilePath": "/Users/mac/Desktop/Article/Article.API/Article.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/mediatr/6.0.0/mediatr.6.0.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/mac/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
